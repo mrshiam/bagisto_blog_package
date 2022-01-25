@@ -1,0 +1,19 @@
+{
+    "name": "mrshiam/blog",
+    "description": "This will add data to the database through form",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mrshiam",
+            "email": "mrshiam01@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mrshiam\\Blog\\": "src/"
+        }
+    }
+}
